@@ -1,8 +1,10 @@
 # DIKWP IntentEconomy OS
 
+Created by Yucong Duan (段玉聪).
+
 Open-source, offline-first intent sovereignty and ethical intent exchange toolkit.
 
-**Positioning:** DIKWP IntentEconomy OS turns the emerging "intention economy" from a covert market for predicting and manipulating users into a user-controlled, evidence-backed, consent-based intent ledger and matching layer.
+Positioning: DIKWP IntentEconomy OS turns the emerging "intention economy" from a covert market for predicting and manipulating users into a user-controlled, evidence-backed, consent-based intent ledger and matching layer.
 
 It helps users, teams, brands, educators, healthcare navigators, public-service teams and AI agents describe intentions as DIKWP semantic objects, publish safe demand briefs, evaluate offers, detect manipulation pressure, record consent and generate governance-ready intent market artifacts.
 
